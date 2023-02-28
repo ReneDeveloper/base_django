@@ -1,0 +1,26 @@
+comandos.txt
+
+
+agregar a
+python manage.py makemigrations
+
+python manage.py migrate
+
+python manage.py createsuperuser
+
+---
+pip install djangorestframework
+
+---install 
+python manage.py startapp post
+crear el model
+agregar a settings.py INSTALLED_APPS la app:post
+
+python manage.py makemigrations
+python manage.py migrate
+
+python manage.py startapp post
+
+
+
+
